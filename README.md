@@ -1,5 +1,4 @@
-This is your own code we just built — here's the step-by-step to get it running on the Spark.
-
+ 
 **1. Get the zip onto your DGX Spark**
 ```bash
 # From your local machine (or wherever you downloaded it)

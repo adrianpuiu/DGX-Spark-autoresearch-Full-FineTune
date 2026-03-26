@@ -61,7 +61,7 @@ chmod +x bootstrap.sh
 ./bootstrap.sh
 ```
 
-This does three things: inits a git repo, runs `finetune.py` (your ~57 min training), then runs `evaluate.py` on the checkpoint. You'll see the baseline `eval_loss` printed at the end.
+This does three things: inits a git repo, runs `finetune.py`, then runs `evaluate.py` on the checkpoint. You'll see the baseline `eval_loss` printed at the end.
 
 **8. Hand off to the AI agent**
 ```bash
